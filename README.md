@@ -1,7 +1,7 @@
 requirements-
 
-streamlit (very important)
-pandas
+streamlit (very important),
+pandas and
 requests
 
 website link-
